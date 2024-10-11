@@ -1,0 +1,106 @@
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.exe
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.deps.json
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.runtimeconfig.json
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.resources
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Properties.Resources.resources
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.pt-BR.resources
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfo.cs
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\refint\tela-de-login.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.genruntimeconfig.cache
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\ref\tela-de-login.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-.9770714D.Up2Date
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.exe
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.deps.json
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.runtimeconfig.json
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.resources
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Properties.Resources.resources
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.pt-BR.resources
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfo.cs
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-.9770714D.Up2Date
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\refint\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.genruntimeconfig.cache
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\ref\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.UserControls.PG_About.resources
+C:\Users\micha\source\repos\Urban-Green-Project\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.UserControls.PG_Help.resources
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.exe
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.deps.json
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.runtimeconfig.json
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.resources
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Properties.Resources.resources
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.UserControls.PG_About.resources
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.UserControls.PG_Help.resources
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.pt-BR.resources
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfo.cs
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-.9770714D.Up2Date
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\refint\tela-de-login.dll
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.genruntimeconfig.cache
+C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\ref\tela-de-login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.exe
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.resources
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Properties.Resources.resources
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.UserControls.PG_About.resources
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.UserControls.PG_Help.resources
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela_de_login.Form1.pt-BR.resources
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\pt-BR\tela-de-login.resources.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-.9770714D.Up2Date
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\refint\tela-de-login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\tela-de-login.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Área de Trabalho\tela-de-login-urban-green-project-main\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows\ref\tela-de-login.dll
