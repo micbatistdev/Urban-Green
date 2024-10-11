@@ -8,9 +8,9 @@ using tela_de_logins;
 
 namespace tela_de_login
 {
-    public partial class Form1 : Form
+    public partial class Containner : Form
     {
-        public Form1()
+        public Containner()
         {
             InitializeComponent();
         }
@@ -144,6 +144,28 @@ namespace tela_de_login
                 input_user.Focus(); // Coloca o foco no campo de usuário
                 input_senha.Text = ""; // Limpa o campo de senha
             }
+        }
+
+        private void min_win_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void max_win_Click(object sender, EventArgs e)
+        {
+            if (this.WindowState == FormWindowState.Maximized)
+            {
+                this.WindowState = FormWindowState.Normal;
+            }
+            else
+            {
+                this.WindowState = FormWindowState.Maximized;
+            }
+        }
+
+        private void link_senha_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
         }
     }
 }

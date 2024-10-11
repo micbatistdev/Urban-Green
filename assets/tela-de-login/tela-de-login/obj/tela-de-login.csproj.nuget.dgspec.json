@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\source\\repos\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\source\\repos\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\source\\repos\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj",
         "projectName": "te_de_login",
-        "projectPath": "C:\\Users\\micha\\source\\repos\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\tela-de-login.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\source\\repos\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Urban-Green-Project\\assets\\tela-de-login\\tela-de-login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

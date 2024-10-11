@@ -58,3 +58,35 @@ C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-log
 C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\ref\te_de_login.dll
 C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_logins.telaInicial.resources
 C:\Users\micha\source\repos\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_logins.TelaInicial.pt-BR.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\te_de_login.exe
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\te_de_login.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\te_de_login.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\te_de_login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\te_de_login.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\pt-BR\te_de_login.resources.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\Guna.UI2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\System.Management.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\bin\Debug\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_logins.Properties.Resources.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_logins.TelaInicial.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_login.UserControls.PG_About.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_login.UserControls.PG_Help.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_logins.TelaInicial.pt-BR.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.sourcelink.json
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\pt-BR\te_de_login.resources.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-.9770714D.Up2Date
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\te_de_login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\refint\te_de_login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\te_de_login.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela-de-login.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\ref\te_de_login.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_login.Containner.resources
+C:\Users\micha\OneDrive\Área de Trabalho\Urban-Green-Project\assets\tela-de-login\tela-de-login\obj\Debug\net8.0-windows10.0.26100.0\tela_de_login.Containner.pt-BR.resources
